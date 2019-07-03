@@ -279,7 +279,7 @@ function banner
 	echo -e ""
 	echo -e "$COL         ██╗      █████╗ ███████╗██╗   ██╗$CE v$VERSION"
 	echo -e "$COL         ██║     ██╔══██╗╚══███╔╝╚██╗ ██╔╝$CE"
-	echo -e "$COL         ██║     ███████║  ███╔╝  ╚████╔╝ $CE   by "$COL"ARIS MELACHROINOS$CE"
+	echo -e "$COL         ██║     ███████║  ███╔╝  ╚████╔╝ $CE  Edited by "$COL"WARECRER$CE"
 	echo -e "$COL         ██║     ██╔══██║ ███╔╝    ╚██╔╝  $CE"
 	echo -e "$COL    The  ███████╗██║  ██║███████╗   ██║  script$CE"
 	echo -e "$COL         ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   $CE"
